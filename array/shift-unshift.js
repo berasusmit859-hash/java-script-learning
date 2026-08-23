@@ -1,0 +1,5 @@
+let a=[1,2,3];
+a.unshift(0);
+console.log(a);
+a.shift();
+console.log(a);
